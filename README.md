@@ -1,6 +1,12 @@
-# Hi there 👋
+# Hi there, I'm David 👋
 
-### Name is David. And I am a Flutter & Python Developer from Tanzania.
+### Software Engineer + Musician
+
+### Connect with me
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![Twitter]([https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white](https://twitter.com/mezza_dk))
+
+Twitter: ThaiiBraga Linkedin: thaianebraga GitHub Thaiane
 
 Currently, A Software Enginner at [Zuno Carbon](https://zunocarbon.com/)
 
