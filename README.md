@@ -1,8 +1,9 @@
-#Hi there 👋
+# Hi there 👋
 
-## Name is David. And I am a Flutter & Python Developer from Tanzania.
+### Name is David. And I am a Flutter & Python Developer from Tanzania.
 
 Currently, A Software Enginner at [Zuno Carbon](https://zunocarbon.com/)
+
 Developer Consultant at [elinonga](http://elinonga.com/)
 
 Here are some things you might want to know about me:
