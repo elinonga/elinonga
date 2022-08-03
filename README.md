@@ -12,14 +12,13 @@
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
 
-
-Twitter: ThaiiBraga Linkedin: thaianebraga GitHub Thaiane
-
+## Work
 Currently, A Software Enginner at [Zuno Carbon](https://zunocarbon.com/)
 
 Developer Consultant at [elinonga](http://elinonga.com/)
 
-Here are some things you might want to know about me:
+
+### Here are some things you might want to know about me:
 
 - 🔭 I’m currently working on Hospital Mobile App (Flutter - Frontend, Django - Backend)
 - 🌱 I’m currently learning Cyber Security
