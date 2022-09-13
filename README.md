@@ -35,4 +35,4 @@ Developer Consultant at [elinonga](http://elinonga.com/)
 - 🤔 I’m looking for help with Links to amazing Open Source Projects
 - 💬 Ask me about Flutter or Python
 - 📫 How to reach me: dkmezza@gmail.com
-- ⚡ Fun fact: I have to listen to music while coding.
+- ⚡ Fun fact: While coding, I just have to listen to music.
