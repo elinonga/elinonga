@@ -30,9 +30,9 @@ Developer Consultant at [elinonga](http://elinonga.com/)
 ### Here are some things you might want to know about me:
 
 - 🔭 I’m currently working on Hospital Mobile App (Flutter - Frontend, Django - Backend)
-- 🌱 I’m currently learning Cyber Security
+- 🌱 I’m currently learning about microservices
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 🤔 I’m looking for help with Links to amazing Open Source Projects
 - 💬 Ask me about Flutter or Python
 - 📫 How to reach me: dkmezza@gmail.com
-- ⚡ Fun fact: While coding, I just have to listen to music.
+- ⚡ Fun fact: I find that listening to music enhances my coding experience.
